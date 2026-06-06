@@ -1,0 +1,1 @@
+C++ boilerplate I use in my projects.
