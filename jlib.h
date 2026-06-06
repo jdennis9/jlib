@@ -516,9 +516,7 @@ jSlice<wchar_t> j_wstring_slice(wchar_t *s);
 // ****************************** IMPLEMENTATION *******************************
 // -----------------------------------------------------------------------------
 
-#define JLIB_IMPL
-
-#ifdef JLIB_IMPL
+#ifdef JLIB_IMPLEMENTATION
 
 #include <string.h>
 #include <stdlib.h>
